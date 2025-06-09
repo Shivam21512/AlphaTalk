@@ -14,3 +14,8 @@ A real-time messaging and video chat platform for global language exchange, buil
 - 📦 **Free Deployment-Ready** Architecture  
 - 🎯 Built with **Stream** for Scalable Realtime Features  
 - ⏳ And **Much More**!
+
+## 📸 Screenshots
+
+### 💬 Chat Interface
+![Chat UI](./screenshots/chat-ui.png)
